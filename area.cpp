@@ -6,7 +6,7 @@ int main(){
     
     int s=0;
     cout<<"which shapes area you want to find 1. Circle   2. Triangle   3. Square    4. Rectangle    5. Parallelogram   6 .Trapezium    7. Ellipse   "<<endl;
-    cout<<"## Enter the number (to exit from program enter 404): ";
+    cout<<"## Enter the number : ";
     cin>>s;
 
     if(s==1){
